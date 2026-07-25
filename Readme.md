@@ -8,6 +8,22 @@ This page contains my solutions of LightOJ problems. They are in C and C++ langu
 ## Index
 |  Index  |  Problem Name  |  Question  |  Solution  |
 | :-----: | :------------: | :--------: | :--------: |
+| 1 | Aspect Ratio | [Question](https://www.lightoj.com/problem/aspect-ratio) | [Solution](https://github.com/ShazidMashrafi/LightOJ/tree/main/Codes/Aspect%20Ratio)
+| 2 | Circle in Square | [Question](https://www.lightoj.com/problem/circle-in-square) | [Solution](https://github.com/ShazidMashrafi/LightOJ/tree/main/Codes/Circle%20in%20Square)
+| 3 | Ekka Dokka | [Question](https://www.lightoj.com/problem/ekka-dokka) | [Solution](https://github.com/ShazidMashrafi/LightOJ/tree/main/Codes/Ekka%20Dokka)
+| 4 | Farthest Nodes in a Tree | [Question](https://www.lightoj.com/problem/farthest-nodes-in-a-tree) | [Solution](https://github.com/ShazidMashrafi/LightOJ/tree/main/Codes/Farthest%20Nodes%20in%20a%20Tree)
+| 5 | Ghajini | [Question](https://www.lightoj.com/problem/ghajini) | [Solution](https://github.com/ShazidMashrafi/LightOJ/tree/main/Codes/Ghajini)
+| 6 | Greetings from LightOJ | [Question](https://www.lightoj.com/problem/greetings-from-lightoj) | [Solution](https://github.com/ShazidMashrafi/LightOJ/tree/main/Codes/Greetings%20from%20LightOJ)
+| 7 | Guilty Prince | [Question](https://www.lightoj.com/problem/guilty-prince) | [Solution](https://github.com/ShazidMashrafi/LightOJ/tree/main/Codes/Guilty%20Prince)
+| 8 | How Cow | [Question](https://www.lightoj.com/problem/how-cow) | [Solution](https://github.com/ShazidMashrafi/LightOJ/tree/main/Codes/How%20Cow)
+| 9 | IP Checking | [Question](https://www.lightoj.com/problem/ip-checking) | [Solution](https://github.com/ShazidMashrafi/LightOJ/tree/main/Codes/IP%20Checking)
+| 10 | Iftar Party | [Question](https://www.lightoj.com/problem/iftar-party) | [Solution](https://github.com/ShazidMashrafi/LightOJ/tree/main/Codes/Iftar%20Party)
+| 11 | Opposite Task | [Question](https://www.lightoj.com/problem/opposite-task) | [Solution](https://github.com/ShazidMashrafi/LightOJ/tree/main/Codes/Opposite%20Task)
+| 12 | Point Table | [Question](https://www.lightoj.com/problem/point-table) | [Solution](https://github.com/ShazidMashrafi/LightOJ/tree/main/Codes/Point%20Table)
+| 13 | Redirect URL | [Question](https://www.lightoj.com/problem/redirect-url) | [Solution](https://github.com/ShazidMashrafi/LightOJ/tree/main/Codes/Redirect%20URL)
+| 14 | The Monkey and the Oiled Bamb | [Question](https://www.lightoj.com/problem/the-monkey-and-the-oiled-bamb) | [Solution](https://github.com/ShazidMashrafi/LightOJ/tree/main/Codes/The%20Monkey%20and%20the%20Oiled%20Bamb)
+| 15 | Trailing Zeroes (III) | [Question](https://www.lightoj.com/problem/trailing-zeroes-(iii)) | [Solution](https://github.com/ShazidMashrafi/LightOJ/tree/main/Codes/Trailing%20Zeroes%20(III))
+| 16 | Triangle Partitioning | [Question](https://www.lightoj.com/problem/triangle-partitioning) | [Solution](https://github.com/ShazidMashrafi/LightOJ/tree/main/Codes/Triangle%20Partitioning)
 
 </div>
 
